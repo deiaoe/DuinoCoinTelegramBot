@@ -1,8 +1,8 @@
 #!/bin/bash
 
-TOKEN="YOUR_TOKEN"
-ID="YOUR_CHAT_ID"
-WALLET="YOUR_USERNAME_WALLET"
+TOKEN="746247733:AAGCOzplpUAx1gJYCpQoEtzgc7Gt9ZftBmM"
+ID="481268297"
+WALLET="raaditya990"
 
 URL="https://api.telegram.org/bot$TOKEN/sendMessage"
 MSG="ᕲ DuinoCoin"
